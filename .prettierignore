@@ -1,6 +1,13 @@
-.next
+# Ignore artifacts:
 next-env.d.ts
-node_modules
 yarn.lock
 package-lock.json
+build
+coverage
+dist
+out
 public
+styles
+node_modules
+.next
+.vscode
